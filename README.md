@@ -10,30 +10,30 @@ TBC
 ## Nonreturn to Zero Inverted Encoding
 TBC
 
-![](./nrz_bipolar.png) ![](./data.png)
+![](./pictures/nrz_bipolar.png) ![](./pictures/data.png)
 
 ## Bipolar-AMI Encoding
 TBC
 
-![](./AMI_encoding.png) ![](./data.png)
+![](./pictures/AMI_encoding.png) ![](./pictures/data.png)
 ## Pseudoternary Encoding
 TBC
 
-![](./Pseudoternary.png) ![](./data.png)
+![](./pictures/Pseudoternary.png) ![](./pictures/data.png)
 ## Nonreturn to Zero-Level Encoding
 TBC
 
-![](./nrz.png) ![](./data.png) 
+![](./pictures/nrz.png) ![](./pictures/data.png) 
 
 ## Manchester Encoding
 TBC
 
-![](./manchester.png) ![](./data.png)
+![](./pictures/manchester.png) ![](./pictures/data.png)
 ## Differential Manchester Encoding
 TBC
 
-![](./differential_manchester.png) ![](./data.png)
+![](./pictures/differential_manchester.png) ![](./pictures/data.png)
 ## B8ZS Encoding
 TBC
 
-![](./B8ZS.png) ![](./B8ZS_data.png)
+![](./pictures/B8ZS.png) ![](./pictures/B8ZS_data.png)
